@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vijayvardhan6&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvardhan6" />
 </p>
-<br>
+
 - 🌱 I’m currently learning **Express.js**
 - 👯 I’m looking to collaborate on **Web Apps**
 - 💬 Ask me about **Web Development, Data Structures, and Football⚽**
