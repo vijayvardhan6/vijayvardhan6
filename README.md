@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Web Apps**
 - 💬 Ask me about **Web Development, Data Structures, and Football⚽**
 - 📫 How to reach me: **vijayvardhan672001@gmail.com**
-- ⚡ Fun fact: **I'm a Lionel Messi fan**
+- ⚡ Fun fact: **I'm a Lionel Messi**
 
 <h3 align="left">Connect with me:</h3>
 <p>
