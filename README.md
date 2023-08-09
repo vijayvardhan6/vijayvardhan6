@@ -26,15 +26,12 @@
   <a href="mailto:vijayvardhan672001@gmail.com">
     <img src="https://img.shields.io/badge/-vijayvardhan672001@gmail.com-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white">
   </a>&nbsp;
-  <a href="https://instagram.com/anurag__._">
-    <img src="https://img.shields.io/badge/-@anurag__.__-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white">
+  <a href="https://instagram.com/vijay_vicky_6">
+    <img src="https://img.shields.io/badge/-@vijay_vicky_6-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white">
   </a>&nbsp;
-  <a href="https://twitter.com/anuragp02">
-    <img src="https://img.shields.io/badge/-@anuragp02-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white">
+  <a href="https://twitter.com/vijay_vardhan_6">
+    <img src="https://img.shields.io/badge/-@vijay_vardhan_6-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white">
   </a>&nbsp;
-  <a href="https://www.youtube.com/channel/UCfHLnTVFAZjND2DWAy79XQg">
-    <img src="https://img.shields.io/badge/-@anuragpal-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white">
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
