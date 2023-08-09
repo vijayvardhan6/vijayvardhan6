@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vijayvardhan6](https://github.com/vijayvardhan6)
 
 - 💬 Ask me about **Web Development, DSA and Football😉**
 
