@@ -41,5 +41,5 @@
 <br>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en" alt="vijayvardhan6" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en" alt="vijayvardhan6" />
 </p>
