@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Reddy</h1>
 <h3 align="center">Aspiring BTech student in the final year, with a zeal for technology and a problem-solving mindset.</h3>
 
-### i About:
+###  About:
 - 🚀 Quick learner
 - 💡 Creative problem solver
 - 😄 Good sense of humor
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=vijayvardhan6&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvardhan6" />
 </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **Web Apps**
 - 💬 Ask me about **Web Development, Data Structures, and Football⚽**
 - 📫 How to reach me: **vijayvardhan672001@gmail.com**
