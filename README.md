@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Reddy</h1>
 <h3 align="center">Aspiring BTech student in the final year, with a zeal for technology and a problem-solving mindset.</h3>
 
-## An Overview About Myself:
+### i About:
 - 🚀 Quick learner
 - 💡 Creative problem solver
 - 😄 Good sense of humor
@@ -51,5 +51,15 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en" alt="vijayvardhan6" />
+     <a href="https://github.com/vijayvardhan6?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvardhan6&langs_count=8&layout=compact&theme=dracula"
+    />
+  </a>
+  
+  <a href="https://github.com/vijayvardhan6?tab=repositories">
+    <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en&theme=dracula" alt="vijayvardhan6" />
+    </a>
 </p>
