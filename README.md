@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/vijayvardhan6">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvardhan6&theme=dracula" alt="stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvardhan6&theme=aura" alt="stats" />
   </a>
 </p>
 
@@ -55,11 +55,11 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvardhan6&langs_count=8&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayvardhan6&langs_count=8&layout=compact&theme=aura"
     />
   </a>
   
   <a href="https://github.com/vijayvardhan6?tab=repositories">
-    <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en&theme=dracula" alt="vijayvardhan6" />
+    <img align="center" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayvardhan6&show_icons=true&locale=en&theme=aura" alt="vijayvardhan6" />
     </a>
 </p>
