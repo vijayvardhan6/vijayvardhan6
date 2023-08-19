@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/vijayvardhan6">
-    <img align="center" src="https://github-readme-streak-stats.vercel.app/?user=vijayvardhan6&theme=dracula" alt="stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayvardhan6&theme=dracula" alt="stats" />
   </a>
 </p>
 
