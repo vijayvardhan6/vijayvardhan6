@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Reddy</h1>
-<h3 align="center">Aspiring BTech student in the final year, with a zeal for technology and a problem-solving mindset.</h3>
+<h3 align="center">I’m a software engineer who loves solving problems with technology, always curious and ready to learn new things in this fast-moving tech world.I enjoy building useful stuff that makes a real difference.</h3>
 
 ###  About:
 - 🚀 Quick learner
 - 💡 Creative problem solver
 - 😄 Good sense of humor
-- 💻 Design and develop full-stack web applications
-- 🌐 Create complex web applications
+- 💻 Design and develop AI, and full-stack web applications
 <br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vijayvardhan6&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvardhan6" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **Web Apps**
-- 💬 Ask me about **Web Development, Data Structures, and Football⚽**
+- 🌱 I’m currently learning **Agentic AI and Gen AI**
+- 👯 I’m looking to collaborate on **Web/AI Apps**
+- 💬 Ask me about **Gen AI, Machine learning, Deep Learning, NLP, Agentic AI, Web Dev**
 - 📫 How to reach me: **vijayvardhan672001@gmail.com**
 - ⚡ Fun fact: **I'm a Lionel Messi**
 <br>
